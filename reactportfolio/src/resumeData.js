@@ -1,7 +1,7 @@
 let resumeData = {
-    "imagebaseurl":"https://devinpawline.github.io/reactportfolio/",
+    "imagebaseurl":"https://github.com/DevinPawline",
     "name": "Devin Pawline",
-    "role": "Full Stack Developer",
+    "role": "Full Stack Developer ",
     "roleDescription": "I like dabbling in various parts of backend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
@@ -16,8 +16,8 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently a full-stack student at UNCC Coding Bootcamp! I have a passion for technology and coding and look forward to creating a project for you! ",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "address":"Charlotte, NC ",
+    "website":"https://github.com/DevinPawline",
     "education":[
       {
         "UniversityName":"University of North Carolina at Charlotte",
